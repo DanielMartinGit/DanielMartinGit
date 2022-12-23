@@ -29,11 +29,13 @@
 ### 👨‍💻 About Me:
 I am a Front-End Developer  from Scotland.
 
-- 🔭 I'm looking to break into the industry as a Front-End Developer. Currently working in Retail.
+- 🔭 I'm looking to break into the Tech Industry as a Front-End Web Developer.
 
 - ⚡ In my free time, I like to build projects and learn about new ways to implement features into Websites/Web Apps.
 
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DanielMartinGit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-martin-b1a413111/)
+
+- 💼 My Portfolio: [![Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=devdotto&logoColor=white)](https://danielmartingit.github.io/)
 
 --- 
 
