@@ -20,8 +20,6 @@
 
 </div>
 
----
-
 ### 👨‍💻 About Me:
 I am a Front-End Developer  from Scotland.
 
