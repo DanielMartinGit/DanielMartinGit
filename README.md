@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me:
 I am a Front-End Developer  from Scotland.
 
-- 🔭 I'm currently studying online to become a Front-End Developer using HTML5/CSS3/Javascript.
+- 🔭 I'm currently studying online to become a Front-End Developer using HTML5/CSS3/Javascript/React.js.
 
 - ⚡ In my free time, I like to build projects and learn about new ways to implement features into Websites/Web Apps.
 
