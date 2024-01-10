@@ -23,11 +23,11 @@
 ### 👨‍💻 About Me:
 I am a Front-End Developer  from Scotland.
 
-- 🔭 I'm currently studying online to become a Front-End Developer using HTML5/CSS3/Javascript/React.js.
+- 🔭 Currently studying to become a Front-End Web Developer.
 
-- ⚡ In my free time, I like to build projects and learn about new ways to implement features into Websites/Web Apps.
+- ⚡ In my spare time I enjoy learning more about Web Development and building my own personal projects.
 
-- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-DanielMartinGit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-martin-b1a413111/)
+- 📬 Contact me: [![Linkedin Badge](https://img.shields.io/badge/-DanielMartinGit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-martin-b1a413111/)
 
 --- 
 
